@@ -1,0 +1,7 @@
+*.gcno
+*.gcda
+*.o
+Makefile
+a.out
+unit_tests
+main.c
